@@ -1,0 +1,6 @@
+framework module Pods_MultipleConfigurationsAppTests {
+  umbrella header "Pods-MultipleConfigurationsAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

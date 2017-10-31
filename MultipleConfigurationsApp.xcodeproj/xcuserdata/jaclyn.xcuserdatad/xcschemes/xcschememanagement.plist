@@ -7,7 +7,20 @@
 		<key>MultipleConfigurationsApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1F2E2F611FA8E62C00E80A63</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1F2E2F751FA8E62C00E80A63</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
